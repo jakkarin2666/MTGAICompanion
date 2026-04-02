@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666656299803",
+    "project_id": "mtgaicompanion",
+    "storage_bucket": "mtgaicompanion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666656299803:android:33ebf763fb7d082fb211be",
+        "android_client_info": {
+          "package_name": "com.mtgai.companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwu_bJk4iXzPltu0tPxAhHIN1Wsq1MhtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
